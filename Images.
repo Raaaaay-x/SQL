@@ -1,6 +1,4 @@
 #1. Storage Engine Features
-<img src="MySQL Storage Feature.png" 
-     alt="MySQL Storage" 
-     title="Click to View"
-     width="600"
-     style="border: 1px solid #eee; border-radius: 8px">
+git add Images/MySQL Storage Feature
+git commit -m "Add image to Images folder"
+git push
