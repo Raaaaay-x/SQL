@@ -1,4 +1,4 @@
 #1. Storage Engine Features
-git add Images/MySQL Storage Feature
+git add Images/MySQL Storage Feature.png
 git commit -m "Add image to Images folder"
 git push
